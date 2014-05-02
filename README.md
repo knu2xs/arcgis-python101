@@ -17,7 +17,7 @@
 
 ### IDE
 * IDLE
-* PyScripter (https://code.google.com/p/pyscripter/)
+* [PyScripter] (https://code.google.com/p/pyscripter/)
 
 ## Bootstrapping
 * ArcGIS Python Window > Export
