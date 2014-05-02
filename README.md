@@ -1,5 +1,3 @@
-ArcGIS-Python101
-================
 # Getting started
 
 ## Core Python
