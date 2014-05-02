@@ -1,4 +1,4 @@
-arcgis-python101
+ArcGIS-Python101
 ================
 # Getting started
 
